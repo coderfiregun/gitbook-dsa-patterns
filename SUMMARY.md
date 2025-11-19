@@ -1,6 +1,7 @@
 # Table of contents
 
 * [DSA Patterns](README.md)
+  * [Resource](dsa-patterns/resource.md)
   * [DP](dsa-patterns/dp/README.md)
     * [1-D DP](dsa-patterns/dp/1-d-dp.md)
     * [Knapsack DP](dsa-patterns/dp/knapsack-dp.md)
